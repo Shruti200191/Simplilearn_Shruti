@@ -1,3 +1,5 @@
 #!bin/sh
 echo "Hello DevOps"
 echo "Commit the script"
+echo "Testing comparison"
+echo "New line to compare"

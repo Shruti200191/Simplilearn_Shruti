@@ -1,2 +1,3 @@
 New file tracking check
 Adding a new line
+Testing git amend commit
